@@ -1,6 +1,7 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Natan barel</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
+
+# 💫 About Me:
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -11,7 +12,6 @@
 - 💬 Ask me about **AWS, DevOps, Ansible, Terraform**
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natan-barel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natan-barel" height="40" width="40" /></a>
 <a href="https://www.facebook.com/natan.barel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="natan-barel" height="40" width="40" /></a>
