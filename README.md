@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natan barel</h1>
 <h3 align="center">A passionate Software and Devops Engineer from Israel</h3>
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🌱 I’m currently learning **Kubernetes**
 
